@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+env/
+
+# Ignore system-specific VS Code settings, but include relevant project settings
+.vscode/
+!.vscode/settings.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore data and models (optional, if not meant for sharing)
+data/
+models/

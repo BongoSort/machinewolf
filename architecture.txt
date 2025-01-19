@@ -1,0 +1,12 @@
+machinewolf/
+│
+├── env/                # Virtual environment
+├── data/               # Raw or processed datasets
+├── models/             # Saved models
+├── notebooks/          # Optional: Experimentation notebooks
+├── src/                # Your Python scripts
+│   ├── main.py         # Main entry point for the program
+│   ├── preprocessing.py # Data cleaning/preprocessing scripts
+│   └── model.py        # ML model definition
+├── requirements.txt    # List of dependencies
+└── README.md           # Description and setup instructions
